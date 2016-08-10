@@ -9,4 +9,4 @@ cd sso-acceptance-tests
 runtests.cmd
 ```
 
-You will need access to the Marketing Cloud QA environment, please update the username and password variable within the class *MarketingCloudPage* for a successful test run.
+You will need access to the Marketing Cloud QA environment, please update the username and password variable within `sso-acceptance-tests/Pages/MarketingCloudPage.cs` for a successful test run.
