@@ -7,8 +7,8 @@ namespace sso_acceptance_tests.Pages
     public class MarketingCloudPage : IPageObject
     {
         private const string MarketingCloudUrl = "https://mc.s1.qa1.exacttarget.com";
-        private const string Username = "****";
-        private const string Password = "****";
+        private const string Username = "[ENTER YOUR USERNAME HERE]";
+        private const string Password = "[ENTER YOUR PASSWORD HERE]";
 
         private readonly IWebDriver _browser;
 
